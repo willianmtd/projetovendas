@@ -1,0 +1,13 @@
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\bin\Debug\netcoreapp3.1\VendasConsole.exe
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\bin\Debug\netcoreapp3.1\VendasConsole.deps.json
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\bin\Debug\netcoreapp3.1\VendasConsole.runtimeconfig.json
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\bin\Debug\netcoreapp3.1\VendasConsole.runtimeconfig.dev.json
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\bin\Debug\netcoreapp3.1\VendasConsole.dll
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\bin\Debug\netcoreapp3.1\VendasConsole.pdb
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\obj\Debug\netcoreapp3.1\VendasConsole.csprojAssemblyReference.cache
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\obj\Debug\netcoreapp3.1\VendasConsole.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\obj\Debug\netcoreapp3.1\VendasConsole.AssemblyInfo.cs
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\obj\Debug\netcoreapp3.1\VendasConsole.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\obj\Debug\netcoreapp3.1\VendasConsole.dll
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\obj\Debug\netcoreapp3.1\VendasConsole.pdb
+C:\Users\Willian\source\repos\VendasConsole\VendasConsole\obj\Debug\netcoreapp3.1\VendasConsole.genruntimeconfig.cache
