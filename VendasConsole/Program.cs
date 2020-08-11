@@ -20,7 +20,7 @@ namespace VendasConsole
                 switch (opcao)
                 {
                     case 1:
-                        Console.WriteLine("---- APLICAÇÃO DE VENDAS ---- \n");
+                        Console.WriteLine("---- CADASTRAR CLIENTES ---- \n");
                         break;
                     case 2:
                         Console.WriteLine("---- LISTAR CLIENTES ---- \n");
